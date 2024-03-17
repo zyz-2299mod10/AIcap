@@ -26,5 +26,4 @@ def crop_to_smallest_edge(image_path, save_path):
         
 def makedirs(name):
     os.makedirs(name, exist_ok=True)
-    os.makedirs(name + "_screenshot", exist_ok=True)
     os.makedirs(name + "_train", exist_ok=True)

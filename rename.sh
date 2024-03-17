@@ -1,5 +1,5 @@
 #!/bin/bash
-obj_name="zebra_crossing"
+obj_name="double_yellow_lines"
 
 a=1
 for i in ./data/${obj_name}/*.png; do

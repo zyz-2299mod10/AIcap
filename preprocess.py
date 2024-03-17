@@ -1,7 +1,7 @@
 from utils import list_files, crop_to_smallest_edge, makedirs
 import cv2
 
-obj_name = "zebra_crossing"
+obj_name = "double_yellow_lines"
 
 makedirs(obj_name)
 folder_path = "./data/" + obj_name
