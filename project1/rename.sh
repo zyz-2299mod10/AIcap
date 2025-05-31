@@ -1,5 +1,5 @@
 #!/bin/bash
-obj_name="double_yellow_lines"
+obj_name="tt"
 
 a=1
 for i in ./data/${obj_name}/*.png; do
